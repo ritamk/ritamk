@@ -1,7 +1,7 @@
 I am Ritam. A freshman, interested in coding.
 My interests cover a wide region, but typically boils down to:
-Android/Web Development, UI/UX Designing,
-Playing around with Graphics libraries (SFML/ P5 / Processing).
+Cross-platform Mobile Development, UI/UX Designing,
+Playing around with Graphical libraries (SFML / Processing).
 Reach me at: ritam.konar.7@gmail.com
 
 <!---
