@@ -1,4 +1,5 @@
-I am Ritam. A freshman, interested in coding.
+I am Ritam. A 2nd year college student, interested in making
+things I can look at interact with and appreciate.
 My interests cover a wide region, but typically boils down to:
 Cross-platform Mobile Development, UI/UX Designing,
 Playing around with Graphical libraries (SFML / Processing).
