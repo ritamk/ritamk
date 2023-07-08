@@ -3,7 +3,7 @@ things I can look at interact with and appreciate.
 My interests cover a wide spectrum, but typically boils down to:
 Cross-platform Mobile Development, UI/UX Designing,
 Playing around with Graphical libraries (SFML / Processing)
-Reach me at: ritamkonar7@gmail.com
+Reach out to me at: ritamkonar@gmail.com
 
 <!---
 ritamk/ritamk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
