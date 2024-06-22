@@ -1,4 +1,4 @@
-Hello there, Ritam here. A 3rd year college student, interested in making
+Hello there, Ritam here. A CSE graduate and an avid techie, interested in making
 things I can look at interact with and appreciate.
 My interests cover a wide spectrum, but typically boils down to:
 Cross-platform Mobile Development, UI/UX Designing,
